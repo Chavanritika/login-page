@@ -38,6 +38,7 @@ body {
 .container .myform h2 {
     color: rgb(48, 43, 43);
     margin-bottom: 20px;
+     padding-left: 70px;
 }
 
 .container .myform input {
